@@ -65,4 +65,4 @@ git clone https://github.com/azmilramadhan/KalkulatorBMI-JavaFx.git
 - Pilih Clean and Build.
 - Klik kanan pada file Main.java di dalam package main, lalu pilih Run File (atau jalankan via F6).
 
-Proyek ini dibuat untuk tujuan pembelajaran Pemrograman Lanjut / Object-Oriented Programming (OOP) dan GUI
+Proyek ini dibuat untuk tujuan pembelajaran Pemrograman Lanjut Menggunakan Object-Oriented Programming (OOP) dan GUI
