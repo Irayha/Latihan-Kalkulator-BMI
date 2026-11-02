@@ -1,6 +1,6 @@
 ## Kalkulator BMI (Body Mass Index) - JavaFX
 
-Aplikasi desktop interaktif untuk menghitung **Body Mass Index (BMI)** berbasis **JavaFX** dan dikembangkan menggunakan arsitektur **MVC (Model-View-Controller)**. Aplikasi ini membantu pengguna mengetahui status berat badan ideal secara praktis berdasarkan standar kriteria kesehatan.
+Aplikasi desktop interaktif untuk menghitung **Body Mass Index (BMI)** berbasis **JavaFX** dan dikembangkan menggunakan arsitektur **MVC (Model-View-Controller)**. Aplikasi ini membantu pengguna mengetahui status berat badan ideal (Standar WHO) secara praktis berdasarkan standar kriteria kesehatan.
 
 ---
 
