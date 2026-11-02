@@ -22,7 +22,7 @@ Aplikasi desktop interaktif untuk menghitung **Body Mass Index (BMI)** berbasis 
 
 ---
 
-## Kategori Status BMI (WHO / Asia-Pasifik)
+## Kategori Status BMI WHO
 
 | Rentang BMI | Kategori | Detail Deskripsi |
 | :---: | :---: | :--- |
@@ -41,26 +41,9 @@ Aplikasi desktop interaktif untuk menghitung **Body Mass Index (BMI)** berbasis 
 - **IDE**: NetBeans
 - **Design Tool**: Scene Builder
 
----
 
-##  Struktur Proyek
 
-Proyek ini menggunakan pola desain **Model-View-Controller (MVC)** untuk memisahkan logika bisnis, antarmuka pengguna, dan pengontrol:
 
-```text
-src/
- ├── main/
- │    ├── java/
- │    │    ├── controller/
- │    │    │    └── KalkulatorBMIController.java  # Mengontrol logika event GUI
- │    │    ├── main/
- │    │    │    └── MainApp.java                  # Entry point aplikasi JavaFX
- │    │    └── model/
- │    │         └── CalculatorBMI2.java           # Logika bisnis & kalkulasi BMI
- │    └── resources/
- │         └── KalkulatorBMI.fxml                 # Desain antarmuka (XML)
- └── pom.xml
-```
 ## Cara Menjalankan Aplikasi
 Prasyarat
 -JDK 17 atau versi lebih baru
