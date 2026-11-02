@@ -7,7 +7,7 @@ Aplikasi desktop interaktif untuk menghitung **Body Mass Index (BMI)** berbasis 
 ##  Tampilan Aplikasi
 
 <p align="center">
-  <img src="assets/View.png" alt="Preview Aplikasi Kalkulator BMI" width="350"/>
+  <img src="LatihanKalkulatorBMI/assets/View.png" alt="Preview Aplikasi Kalkulator BMI" width="350"/>
 
 </p>
 
