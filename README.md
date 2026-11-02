@@ -53,7 +53,7 @@ Prasyarat
 Langkah Eksekusi
 1. Clone repository:
 
-git clone https://github.com/azmilramadhan/KalkulatorBMI-JavaFx.git
+git clone (https://github.com/Irayha/Latihan-Kalkulator-BMI)
 
 2. Buka Proyek di NetBeans:
 - Buka NetBeans IDE.
