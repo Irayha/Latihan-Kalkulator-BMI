@@ -43,7 +43,7 @@ Aplikasi desktop interaktif untuk menghitung **Body Mass Index (BMI)** berbasis 
 
 ---
 
-## 📁 Struktur Proyek (MVC Architecture)
+##  Struktur Proyek
 
 Proyek ini menggunakan pola desain **Model-View-Controller (MVC)** untuk memisahkan logika bisnis, antarmuka pengguna, dan pengontrol:
 
